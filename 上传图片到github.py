@@ -8,4 +8,4 @@ os.system("git add .")
 os.system("git commit -m\'"+commit+"\'")
 #推送到github_goods的main分支
 os.system("git push origin main")
-
+input("任意键退出:")
